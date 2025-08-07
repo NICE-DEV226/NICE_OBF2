@@ -168,7 +168,7 @@ Après déploiement, votre application sera disponible sur:
 
 ### Health Check
 ```bash
-curl https://your-site.netlify.app/api/health
+curl https://nice-obfs.netlify.app/api/health
 ```
 
 ## 🔄 CI/CD
